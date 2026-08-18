@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-n2ltzd.lapinandwolf.co.nz/sitemap.xml
